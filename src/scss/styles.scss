@@ -1,0 +1,20 @@
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap"; 
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header-image{
+   max-height: 250px;
+}
+.navbar-container{
+    background-color: rgb(170, 88, 233)
+}
+.image-whoweare-section{
+    float:left;
+}
+.text-justify-section{
+    text-align: justify;
+}
